@@ -1,5 +1,5 @@
 # ThailandMobileNumberWordlists
-Thailand mobile number wordlists for bruteforce (etc. aircrack-ng , hydra , hashcat , more...)
+Thailand mobile phone number wordlists for bruteforce (etc. aircrack-ng , hydra , hashcat , more...)
 
 
 Begin with : 0600000000 to 0699999999 (100,000,000 numbers)
