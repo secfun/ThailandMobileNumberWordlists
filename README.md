@@ -9,6 +9,7 @@ Thailand mobile phone number wordlists for bruteforce (etc. aircrack-ng , hydra 
 ถ้าจะ Bruteforce ก็เขียน shell script for loop กับ hydra เอา ให้เปลี่ยนไฟล์ไปเรื่อยๆเมื่อยิงเสร็จแต่ละไฟล์ก็ได้
 
 หรือใครสะดวกจะโหลดไฟล์ใหญ่ไฟล์เดียว 100 ล้านเลขหมาย ของแต่ละชุดสามารถดาวน์โหลดได้ ตามลิ้งด้านล่าง
+#############################
 
 Begin with : 0600000000 to 0699999999 (100,000,000 numbers)
 Size of file = 1.1GB
